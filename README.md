@@ -6,4 +6,4 @@ The convolutional neural network has been implemented and trained using TensorFl
 
 Example output
 
-![alt text] (https://github.com/sh394/cnn-guessing-artist/blob/main/dataset/single_prediction/single_prediction_2.jpg)
+![alt text] (https://github.com/sh394/cnn-guessing-artist/blob/main/dataset/single_prediction/single_prediction_2.jpg?raw=true)
